@@ -1,7 +1,7 @@
 # Sales_Analysis
 Welcome to my GitHub profile! I am excited to share my first project on Data Analysis, where I utilized Python, Pandas, and Matplotlib to address the business questions posed by the owner.
-
-
+/n
+/n
 ### Analysis Process
 To tackle the project, I followed a structured analysis process consisting of the following steps:
 
